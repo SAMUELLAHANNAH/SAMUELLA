@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # SAMUELLA first working processing with gitkraken..
 
 #added uganda to the commit sections..
@@ -12,6 +13,8 @@
 #has 7/13 commit messages on the gitkraken commit message section....
 =======
 <<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 <<<<<<< Updated upstream
 # SAMUELLA first working processing with gitkraken...
 
@@ -24,6 +27,9 @@
 =======
 # SAMUELLA
 >>>>>>> 9987592... Hello Torontol
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
