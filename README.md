@@ -5,3 +5,7 @@
 #add a new section to the commit..
 
 >>commit changes has been added
+
+
+
+#has 7/13 commit messages on the gitkraken commit message section....
